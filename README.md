@@ -20,7 +20,9 @@ Le nouveau design doit garder les éléments suivants :
 ## Spécification du projet
 
 Celui-ci devra être moderne et simple à la fois.  
-Hormis les contraintes imposées ci-dessous, le reste est **libre**.
+Hormis les contraintes imposées ci-dessous, le reste est **libre**.  
+
+Les livrables devront comporter la vue desktop et mobile.
 
 ## Nota bene
 
