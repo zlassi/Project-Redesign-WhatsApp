@@ -14,7 +14,7 @@ Le nouveau design doit garder les éléments suivants :
 * Le slogan actuel
 * La description se trouvant sous le slogan
 * Les liens permettant de télécharger l'application
-* Un screen de l'application
+* Un screen ou plusieurs screens de l'application
 * Le menu situé en haute de la page
 
 ## Spécification du projet
